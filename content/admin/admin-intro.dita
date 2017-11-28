@@ -50,7 +50,7 @@
 			<title>Accessing Couchbase Server with a Client</title>
 			<p>If you already have an application that uses the memcached protocol, you can start using
 				your Couchbase Server immediately. If so, you can simply point your application to this
-				server as you would do with any other memcached server. No code changes or special
+				server as you would do with any other memcached server. No code changes nor special
 				libraries are needed, and the application behaves as it would against a standard
 				memcached server. Without the client knowing anything about it, the data is being
 				replicated, persisted, and the cluster can be expanded or contracted completely
